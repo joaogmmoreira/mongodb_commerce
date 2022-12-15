@@ -1,1 +1,1 @@
-"oi";
+db.produtos.count();
